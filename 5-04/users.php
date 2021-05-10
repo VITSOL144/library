@@ -23,7 +23,7 @@ mysqli_query($db,"UPDATE users SET password = '$pass' WHERE id = '$id'");
 <html>
 	<head>
 		<meta charset='utf-8'>
-		<title>Задание 1</title>
+		<title>Задание 11</title>
 	</head>
 
 	<body>
